@@ -2,12 +2,11 @@
 /**
  * main - Entry point
  *
- * Return: Alyways 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	fprintf(stderr, "and that piece of art is useful\" - Dora \
-			Korpar, 2015-10-19\n");
+			Korpar, 2015-10-19");
 	return (1);
 }
-
