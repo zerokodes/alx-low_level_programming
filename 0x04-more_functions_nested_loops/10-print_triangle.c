@@ -5,6 +5,7 @@
  * Return: void
  */
 void print_triangle(int size)
+{
 	int i;
 	int j;
 	int k;
@@ -25,3 +26,4 @@ void print_triangle(int size)
 			_putchar('\n');
 		}
 	}
+}
