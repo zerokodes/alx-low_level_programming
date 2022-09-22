@@ -3,12 +3,14 @@
 #include <string.h>
 /**
  * _strcat  - concatenate two strings
- * @s1: first string
- * @s2: second string
- * Return: Always 0
+ * @dest: first string
+ * @src: second string
+ * Return: A pointer to the resulting string
  */
-char _strcat(char s1[], char s2[])
+char *_strcat(char *dest, char *src)
 {
-	strcat(s1, s2);
-	return (0);
+	char *res;
+
+	res = strcat(dest, src);
+	return (res);
 }
