@@ -1,4 +1,4 @@
-#include "list.h"
+#include "lists.h"
 #include <stdio.h>
 /**
  *print_listint - prints the integer in the linked list
