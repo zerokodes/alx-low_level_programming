@@ -24,7 +24,7 @@ int sub(int a, int b)
  *@a: first number
  *@b: second number
  *Return: 1
- */ 
+ */
 int mul(int a, int b)
 {
     return (a * b);
@@ -34,7 +34,7 @@ int mul(int a, int b)
  *@a: first number
  *@b: second number
  *Return: 1
- */ 
+ */
 int div(int a, int b)
 {
     return (a / b);
