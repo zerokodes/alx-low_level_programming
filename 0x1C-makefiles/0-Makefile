@@ -1,1 +1,4 @@
-caidncncljdsk
+CC := gcc
+
+all:
+	${CC} main.c school.c -o school
