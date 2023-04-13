@@ -1,4 +1,4 @@
-#include "search_algos.h"
+#include "search_algos1.h"
 
 /**
  * rec_search - searches for a value in an array of
